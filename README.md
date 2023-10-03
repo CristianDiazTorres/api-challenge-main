@@ -96,6 +96,10 @@ For testing, you can generate a valid token using the `user.generateAccessToken(
 
 You can find a list of modules in `package.json`. A short description of each is below:
 
+### Contacts
+
+cristiandiaz0915@gmail.com
+
 | Module         | Description                                                                               |
 | -------------- | ----------------------------------------------------------------------------------------- |
 | @hapi/hapi     | [Hapi.js](https://hapi.dev/), a Node framework for APIs                                   |
