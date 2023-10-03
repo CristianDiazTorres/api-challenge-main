@@ -1,9 +1,7 @@
 # Userfront API challenge
 
 In this challenge, you will implement an additional `GET` route for an API backend.
-
 This is a technical task, but we also want to see how you write code to be read by others. Please keep this in mind as you go.
-
 This repo is indicative of the style and some of the tools used at Userfront. If you have any questions while doing the challenge, please ask!
 
 ## Prerequisites
