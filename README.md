@@ -76,7 +76,7 @@ The database has 3 tables. These are automatically created when the test suite r
 
 ### Authentication
 
-Authentication is done with a [JSON Web Token](https://userfront.com/guide/auth/jwt-json-web-token.html) (JWT) included in the `authorization` header of each request:
+ Authentication is done with a [JSON Web Token](https://userfront.com/guide/auth/jwt-json- web-token.html) (JWT) included in the `authorization` header of each request:
 
 ```
 {
